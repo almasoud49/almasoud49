@@ -1,5 +1,8 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<!-- <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" /> -->
+<img src="https://www.canva.com/design/DAGPZVyT060/ocqm6AOKh0gjhn_k4VRwzg/edit?utm_content=DAGPZVyT060&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+
+  
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
