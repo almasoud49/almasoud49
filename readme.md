@@ -27,6 +27,7 @@
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/css.png"/>
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/Typescript.png"/>
 
 </p>
 <p align="center">
