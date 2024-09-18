@@ -36,6 +36,8 @@
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/nextjs.jpg"/>
+
 </p>
 <p align="center">
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/node.png"/>
