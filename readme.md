@@ -24,7 +24,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"](https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png)/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 </p>
 <p align="center">
