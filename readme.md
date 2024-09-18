@@ -46,7 +46,7 @@
 
 <div align="left">
 <!-- <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a> -->
-  <a href="https://app.daily.dev/almasoud"><img src="https://api.daily.dev/devcards/v2/cfMcoXav41kSy98bSlQww.png?r=5sz" width="356" alt="Abdullah Al Masoud's Dev Card"/></a>
+  <a href="https://app.daily.dev/almasoud"><img  align="right" src="https://api.daily.dev/devcards/v2/cfMcoXav41kSy98bSlQww.png?r=5sz" width="200" alt="Abdullah Al Masoud's Dev Card"/></a>
 
 </div>
 
