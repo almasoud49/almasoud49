@@ -43,6 +43,7 @@
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/node.png"/>
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/express.png"/>
 <img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/almasoud49/almasoud49/blob/main/images/icons/mongoose.png"/>
 </p><br/>
 
 ## :eyes: Current overview
